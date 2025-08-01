@@ -26,7 +26,8 @@ This repository serves as a consolidated and version-controlled record of my lea
 ### 2. NMOS Operational Amplifier
 <ul>
     In an n-channel E-MOSFET, a positive gate voltage creates a conducting path by attracting electrons.                                                                                        
-    <img width="1366" height="768" alt="Screenshot (550)" src="https://github.com/user-attachments/assets/5066ffb6-2c2d-4c2e-a6b0-5a3a946f4816" />
+    <img width="1366" height="768" alt="<img width="1610" height="880" alt="opamp_nmos circuit and output" src="https://github.com/user-attachments/assets/521e7375-51b9-4b75-8816-e62298f10bc5" />
+
 
 </ul>
 
