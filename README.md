@@ -2,8 +2,6 @@
 
 This repository documents my work as a student from **Silicon University** during a my Analog IC Design Internship in June 2025, under the mentorship of **Dr.Saroj Rout**
 
-This repository serves as a consolidated and version-controlled record of my learning, simulations, and project implementation.
-
 ### Topics Covered
 <ul>
     <li>RC Circuits</li>
