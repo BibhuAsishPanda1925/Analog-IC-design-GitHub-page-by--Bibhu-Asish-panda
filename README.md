@@ -13,6 +13,7 @@ This repository serves as a consolidated and version-controlled record of my lea
     <li>Small Signal Analysis</li>
     <li>Current Mirror</li>
     <li>Differential Amplifer</li>
+    <li>MEMS Microphone</li>
 </ul>
 
 
@@ -23,6 +24,8 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
+--
+
 ### 2. NMOS Operational Amplifier
 <ul>
     In an n-channel E-MOSFET, a positive gate voltage creates a conducting path by attracting electrons. 
@@ -31,12 +34,16 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
+--
+
 ### 3. Differential Amplifier
 <ul>
     It amplifies the difference between two input signals and is widely used in analog signal processing, especially in operational amplifiers.                                            
     <img width="1366" height="768" alt="<img width="1302" height="808" alt="nmosinputstage sch" src="https://github.com/user-attachments/assets/4a382d98-b28f-417a-9fd6-8ad773e4ee70" />
 
 </ul>
+
+--
 
 
 ### 4. High-Pass Operational Amplifier
@@ -46,6 +53,8 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
+--
+
 ### 5. Current Mirror
 <ul>
     The circuit is used to copy the flow of current in one active device and controlling the flow of current in another device by maintaining the output current stable instead of loading
@@ -53,6 +62,8 @@ This repository serves as a consolidated and version-controlled record of my lea
      <img width="1366" height="768" alt="<img width="1693" height="880" alt="current mirror and outputs" src="https://github.com/user-attachments/assets/b4122254-7402-4758-84a1-6ee1ed9b8191" />
 
 </ul>
+
+--
 
 ### 6. Operational Amplifier
 <ul>
@@ -64,6 +75,8 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
+--
+
 ### 7. Small Signal Analysis
 <ul>
     Devices like BJTs or MOSFETs have non-linearly but when the input signal is small, we can approximate the device as linear around its operating point.
@@ -71,6 +84,8 @@ This repository serves as a consolidated and version-controlled record of my lea
     <img width="1366" height="768" alt="<img width="1896" height="876" alt="fetckt2 and output" src="https://github.com/user-attachments/assets/392e9050-1638-416a-a076-f51f2f11f97a" />
 
 </ul>
+
+--
 
 ### 8. MEMS Microphone
 <ul>
