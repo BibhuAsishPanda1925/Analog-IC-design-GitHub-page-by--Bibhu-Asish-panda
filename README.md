@@ -16,6 +16,7 @@ This repository serves as a consolidated and version-controlled record of my lea
     <li>MEMS Microphone</li>
 </ul>
 
+---
 
 ### 1. Thevenin's Model of a Microphone
 <ul>
@@ -24,7 +25,7 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
---
+---
 
 ### 2. NMOS Operational Amplifier
 <ul>
@@ -34,7 +35,7 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
---
+---
 
 ### 3. Differential Amplifier
 <ul>
@@ -43,7 +44,7 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
---
+---
 
 
 ### 4. High-Pass Operational Amplifier
@@ -53,17 +54,16 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
---
+---
 
 ### 5. Current Mirror
 <ul>
     The circuit is used to copy the flow of current in one active device and controlling the flow of current in another device by maintaining the output current stable instead of loading
-    <img width="1366" height="768" alt="<img width="1632" height="880" alt="currentmirror sch" src="https://github.com/user-attachments/assets/492a9ba9-2c8b-4861-9e3e-8c4205b6aff5" />
      <img width="1366" height="768" alt="<img width="1693" height="880" alt="current mirror and outputs" src="https://github.com/user-attachments/assets/b4122254-7402-4758-84a1-6ee1ed9b8191" />
 
 </ul>
 
---
+---
 
 ### 6. Operational Amplifier
 <ul>
@@ -75,7 +75,7 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
---
+---
 
 ### 7. Small Signal Analysis
 <ul>
@@ -85,7 +85,7 @@ This repository serves as a consolidated and version-controlled record of my lea
 
 </ul>
 
---
+---
 
 ### 8. MEMS Microphone
 <ul>
