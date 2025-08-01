@@ -20,7 +20,6 @@ This repository serves as a consolidated and version-controlled record of my lea
 <ul>
     The Circuit demonstrates a practical application of Analog Design Principle                                                                                                    
     <img width="1366" height="768" alt="<img width="1402" height="871" alt="ckt1memsmic and response" src="https://github.com/user-attachments/assets/c1506d87-442b-445b-a8a8-441d2c50b315" />
-)" src="https://github.com/user-attachments/assets/1f70b55f-26a8-4c96-82fc-65cfc9732d2f" />
 
 </ul>
 
