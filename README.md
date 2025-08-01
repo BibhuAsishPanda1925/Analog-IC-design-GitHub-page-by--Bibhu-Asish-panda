@@ -68,7 +68,6 @@ This repository documents my work as a student from **Silicon University** durin
     An Operational Amplifier, or Op-amp for short, is fundamentally a voltage amplifying device designed to be used with external feedback components such as resistors and capacitors between its output and input terminals.
     <img width="1366" height="768" alt="<img width="1848" height="872" alt="opampmems sch" src="https://github.com/user-attachments/assets/5d9de014-c312-473f-80e7-72056ade0558" />
     <img width="1366" height="768" alt="<img width="763" height="577" alt="opampmems sym" src="https://github.com/user-attachments/assets/2c8be5ce-3398-4089-a2dc-fd970bf4248e" />
-<ul>
     for Nmos circuit
     <img width="1366" height="768" alt="<img width="765" height="538" alt="nmosinputstage sym" src="https://github.com/user-attachments/assets/8c96e28a-7000-4c2c-9b59-513c036e923b" />
 
