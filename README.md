@@ -186,7 +186,7 @@ The amplifier gain is very low so going for the telescopic amplifier.
 
 Telescopic Amplifer with biasing circuit
 
-<img width="823" height="582" alt="image" src="<img width="823" height="543" alt="telescopic" src="https://github.com/user-attachments/assets/68a5e791-134f-45fe-aecb-2247c383781f" />
+<img width="823" height="543" alt="telescopic" src="https://github.com/user-attachments/assets/68a5e791-134f-45fe-aecb-2247c383781f" />
 
 
 Created symbol for the amplifier test
