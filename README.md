@@ -179,12 +179,10 @@ THD(Total Harmonic Distortion) = 28.52%
 1. For the common source differential amplifier which I have designed the gain is comming to be around 21dB which is very low.
 2. The THD is 28.52%
 
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 The amplifier gain is very low so going for the telescopic amplifier.
 
-Telescopic Amplifer with biasing circuit
-<img width="823" height="582" alt="image" src="https://github.com/user-attachments/assets/d6f5edd4-655b-475d-9250-5fc3fe47c95d" />
 
-Created symbol for the amplifier test
-<img width="510" height="361" alt="image" src="https://github.com/user-attachments/assets/221dfc59-374b-442e-b497-d8d674a77fe8" />
+
